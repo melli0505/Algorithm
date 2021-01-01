@@ -1,3 +1,5 @@
+#백준 2884, 45분 일찍 울리는 알람
+
 H, M = map(int, input().split())
 
 if M >= 45:
